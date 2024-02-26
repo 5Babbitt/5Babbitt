@@ -1,9 +1,12 @@
 ### Hi there 👋
 
-My name is Owen Harbert
+My name is Owen Harbert.
 
-I am a games developer working primarily in the Unity Game Engine.
-I have released game to 
+<!--Introduction-->
+<p>I am a games developer working primarily in the Unity Game Engine and C# programming language.</p>
+
+
+You can find my games on <a href="https://5-babbitt-games.itch.io">Itch.io</a>
 
 <!--
 **5Babbitt/5Babbitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
